@@ -1,0 +1,146 @@
+<style type='text/css'>
+        body{font-family: Verdana, sans-serif; font-size: 12px;}
+        h2 { font-family: Verdana, sans-serif; font-size: 12px; }
+        table { border-collapse: collapse; border:1px solid #ccc; width:100%;}
+        table td { border-collapse: collapse; border:1px solid #ccc; font-size: 12px; padding: 10px;}
+        .title { background-color: #eee; }
+        ul li { list-style-type:circle; padding: 5px; }
+    </style><h2>IT Skills</h2><table cellpadding="5"><tr><td width="25%" class="title"><b>Technology</b></td><td width="75%">JavaScript, Node.js</td></tr><tr><td class='title'><b>Database</b></td><td>MongoDB, MS SQL 2014</td></tr><tr><td class='title'><b>Opensource</b></td><td>Redux</td></tr><tr><td class='title'><b>Os</b></td><td>UNIX / LINUX, Windows 2000/2003/2008/2012 Server</td></tr><tr><td class='title'><b>Third Party Components</b></td><td>React.js</td></tr></table><br /><br /><br /><h2>Project Experience</h2><table><tr><td width="50%" align="center" class="title"><b>No of Projects</b></td><td width="50%" align="center" class="title"><b>Total Experience</b></td></tr><tr><td align="center">3 Projects</td><td align="center">4 Years 1 Month</td></tr></table><br style='page-break-before: always'><h2> #1</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >KMS(mKISAN)</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Desktop + Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Social</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">6 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">4</td></tr><tr><td colspan="4"><b>Description</b><br /><p><strong>Project Concept </strong></p>
+
+<p>Mahindra Knowledge Intelligent Search Assistance Network(mKISAN) is based on Reactjs , Nodejs and MySQL databse. It has 7 main functionalities:-</p>
+
+<ul>
+	<li>Upload Document</li>
+	<li>Audio record</li>
+	<li>Video record</li>
+	<li>Ask an Expert</li>
+	<li>Bookmark</li>
+	<li>Like and Comment</li>
+	<li>Search and search filter</li>
+</ul>
+
+<p><strong>Project Description</strong></p>
+
+<p>In this we can upload documents , record audio and&nbsp; video related to the automobiles, also we can like and comment any post. In audio and video Record&nbsp; We can share knowledge or we can ask questions from experts. With a post we earn some points. we can search any post by filter search. We have a header where we can see my post , all stories , forum , calender and notification.</p>
+
+<p>1)Upload Document - It will open a model where we need to attach a document with short desription and details.</p>
+
+<p>2)Audio record - It will open a recorder where we have a start and stop button, after stop we can preview recorded audio then after click on submit it takes 2-3 mins to upload. Upload will run on background meanwhile we can check the posts or we can upload something else other than audio. We can see progress in notification tab. Once it is completed it will automatically open a model where we can see transcription of the audio , we can edit the transcription and after submit again it will open a model where we need to put some details like short description and Details about the post then submit. we can see our post in my feed or in all stories.</p>
+
+<p>3)Video record - It will open a recorder where we have a start and stop button, after stop we can preview recorded video then after click on submit it takes 2-3 mins to upload. Upload will run on background meanwhile we can check the posts or we can upload something else other than video. We can see progress in notification tab. Once it is completed it will automatically open a model where we can see transcription of the video , we can edit the transcription and after submit again it will open a model where we need to put some details like short description and Details about the post then submit. we can see our post in my feed or in all stories.</p>
+
+<p>4)Ask an Expert - we can ask questions to the trending experts.</p>
+
+<p>5)Bookmark - We can bookmark any post.</p>
+
+<p>6)Like and Comment - We can like and comment the post.</p>
+
+<p>7)Search and search filter - We can search by normal search and if you are looking for a particular post then you can go with filter search where we need to enter search keyword, creator name, date , field type.</p>
+
+<p>We have guidelines , Useful links , Dashboard field as well.</p>
+
+<p><strong>Challenges Faced</strong></p>
+
+<ul>
+	<li>Never worked on Audio and video recording functionality but in this project i got this new thing.</li>
+</ul>
+
+<p><strong>Technology:</strong></p>
+
+<p>React &amp; Redux, Nodejs, MySQL.</p>
+
+<p><strong>Role of working:</strong></p>
+
+<p>My role in this project is a frontend developer.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">Node.js</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MS SQL 2014</td></tr><tr><td width="25%" class="title"><b>Framework</b></td><td colspan="3">Redux</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">UNIX / LINUX</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>Code, debug, test, and document&nbsp;application programs</li>
+	<li>Database creation and updation</li>
+	<li>Gathered Business requirements if needed</li>
+	<li>Time and Effort estimation</li>
+	<li>Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #2</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >Rice Exchange</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Web</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Ecommerce</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">1 Year 6 months</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">27</td></tr><tr><td colspan="4"><b>Description</b><br /><p><strong>Project Concept</strong></p>
+
+<p>Rice Exchange is a global digital marketplace. It adds trust, reduces risk and lowers costs for buyers, sellers, shippers, insurers, banks and inspectors.All types of rice available and users can easily connect with new or existing buyers and suplliers. It obtain real time quptes from service providers and book service online. It has document matching tool which prevents fraud. Data is controlled by users and stored securely. Via a click of mouse users can get an inspection quote. The contractually agreed inspector is notified of the upcoming shipment and provides dailyinspection reports to buyers and sellers.</p>
+
+<p><strong>Project Description</strong></p>
+
+<p>Rice Exchange is a new way to trade rice. This enabled digital platform adds trust and lowers risk. It has buyers, sellers, service providers and news tabs with all information included.It is a live platform where users buy rice according to their choice and make contract digitally with trusted seller.The contract is signed digitally by both parties and the pro-forma invoice is automatically generated by the system. Your business and negotiation is private. Nobody can see what, when, at which price and from who you bought or to whom you sold.The contract is immutable and the contents cannot be changed without agreement of both parties.</p>
+
+<p><strong>Project Highlights</strong></p>
+
+<p>1) Rice Exchange is a member of the Sustainable Rice Platform and USA Rice Producers Association.</p>
+
+<p>2)Users can compare prices from different sellers</p>
+
+<p>3)Users can select quality of rice they want</p>
+
+<p>4)Contract between buyer and seller is digital</p>
+
+<p>5)Buyers and sellers can chat&nbsp;</p>
+
+<p>6)Buyers and sellers gets notification each time&nbsp;</p>
+
+<p><strong>Technology and Implementation&nbsp;</strong></p>
+
+<p>Ricex is based on Reactjs, Nodejs and Blockchain.</p>
+
+<p><strong>Role of working</strong></p>
+
+<p>I worked mostly in UI part and bugs using Recatjs, javaScript, HTML&nbsp;and CSS.</p>
+
+<p>&nbsp;</p>
+</td></tr><tr class="customfields"><td class="title bold"><b>Framework / CMS Version</b></td><td colspan="3">NodeJS</td></tr><tr class="customfields"><td class="title bold"><b>Versioning</b></td><td colspan="3">GIT</td></tr><tr class="customfields"><td class="title bold"><b>Project Management Tool</b></td><td colspan="3">Jira</td></tr><tr class="customfields"><td class="title bold"><b>Responsive</b></td><td colspan="3">Yes</td></tr><tr><td width="25%" class="title"><b>Technology</b></td><td colspan="3">JavaScript</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MongoDB</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">Windows 2000/2003/2008/2012 Server</td></tr><tr><td width="25%" class="title"><b>Third Party Components</b></td><td colspan="3">React.js</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>Code, debug, test, and document&nbsp;application programs</li>
+	<li>Database creation and updation</li>
+	<li>Gathered Business requirements if needed</li>
+	<li>Time and Effort estimation</li>
+	<li>Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'><h2> #3</h2><table><tr><td width="25%" class="title"><b>Project Name</b></td><td >RBS Project</td><td width="25%" class="cv_table"><b>Project Type</b></td><td >Desktop</td></tr><tr><td width="25%" class="title"><b>Project Category</b></td><td colspan="3">Support</td></tr><tr><td width="25%" class="title"><b>Duration</b></td><td width="25%">2 Years 1 month</td><td width="25%" class="title"><b>Team Size</b></td><td width="25%">33</td></tr><tr><td colspan="4"><b>Description</b><br /><p><strong>Project Concept</strong></p>
+
+<p>Active Directory is a tool which includes all&nbsp;details of RBS users like role group of user, how many access user have , passwords , service level, VM details etc. Using this tool we can give/stop access to users.</p>
+
+<p><strong>Project Description</strong></p>
+
+<p>RBS is an Active Directory project where we manage&nbsp;Active Directory by checking user accounts and profiles, adding pre-defined role groups to user accounts, password reset and account unlock.Ensures&nbsp;speedy restoration for all incidents and conducting incident reviews.Any issues related to application are logged, tracked, analyzed with the help of application teams and product specialist teams and handles&nbsp;and raise&nbsp;incidents/tickets on Service Now Tool and assigns&nbsp;it to the concerned team depending upon the issue raised by user.</p>
+
+<p><strong>Project Highlights</strong></p>
+
+<p>1) <img src="file:///C:\Users\ritu\AppData\Local\Temp\msohtmlclip1\01\clip_image001.gif" style="height:6px; width:7px" />Active Directory&nbsp;Management &ndash; Processing and resolution of unexpected operation event. Managing adherence to communication process to all priority based incidents.</p>
+
+<p>2)&nbsp;Fixing issues related to Local and Roaming profiles of user and providing permission using AD.</p>
+
+<p>3) User&#39;s access can be blocked and given from Active Directory.</p>
+
+<p><strong>Technologies</strong></p>
+
+<p>Active Directory, ServiceNow, VMWare and MySQL database.</p>
+
+<p><strong>Role of working</strong></p>
+
+<p>I have used&nbsp;Active Directory for user data, ServiceNow for incidents, VMWare machines and MySQL database.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</td></tr><tr class="customfields"><td class="title bold"><b>Framework / CMS Version</b></td><td colspan="3">NodeJS</td></tr><tr class="customfields"><td class="title bold"><b>Versioning</b></td><td colspan="3">GIT</td></tr><tr class="customfields"><td class="title bold"><b>Project Management Tool</b></td><td colspan="3">Jira</td></tr><tr class="customfields"><td class="title bold"><b>Responsive</b></td><td colspan="3">Yes</td></tr><tr><td width="25%" class="title"><b>Database</b></td><td colspan="3">MS SQL 2014</td></tr><tr><td width="25%" class="title"><b>OS</b></td><td colspan="3">Windows 2000/2003/2008/2012 Server</td></tr><tr><td colspan="4"><b>Role</b><br /><ul>
+	<li>Code, debug, test, and document&nbsp;application programs</li>
+	<li>Database creation and updation</li>
+	<li>Gathered Business requirements if needed</li>
+	<li>Time and Effort estimation</li>
+	<li>Project Deployment</li>
+</ul>
+</td></tr></table><br style='page-break-before: always'>

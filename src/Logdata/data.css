@@ -1,0 +1,21 @@
+table,
+td,
+th {
+  padding: 8px;
+}
+table {
+  width: 100%;
+}
+td,
+th {
+  text-align: center;
+}
+Pagination {
+  float: left;
+}
+.option1 {
+  height: 38px;
+  width: 180px;
+  border-color: lightgrey;
+  border-radius: 5px;
+}
