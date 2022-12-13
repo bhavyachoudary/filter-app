@@ -13,11 +13,11 @@ const SearchData = (props) => {
 
   const buttonSubmit = () => {
     const temp = { actionType, applicationType, applicationId, search }
-    if (temp && props.handleFilter()) {
 
-      props.handleFilter(temp)
 
-    }
+    props.handleFilter(temp)
+
+
     let urlStr = "?";
     for (let [key, value] of Object.entries(temp)) {
       console.log("key", key, value)
